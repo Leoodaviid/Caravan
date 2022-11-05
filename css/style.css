@@ -16,9 +16,6 @@ a {
   #home-quote .display-4 {
     font-size: 2.5rem;
   }
-  body {
-    padding-top: 0px;
-  }
 }
 .pergunta {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
