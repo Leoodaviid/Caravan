@@ -23,3 +23,10 @@ a {
 .pergunta {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
+.lista-plano li + li {
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.lista-plano li {
+  padding: 1rem;
+}
